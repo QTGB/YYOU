@@ -1,0 +1,299 @@
+{
+  "version": 2,
+  "revision": 1,
+  "difficulty": 1,
+  "songId": "yyou_demo_06",
+  "title": "星光漫步",
+  "status": "open-demo",
+  "label": "简单 · 合成演示",
+  "audioPath": "DemoMusic/yyou_demo_06.ogg",
+  "audioDuration": 31.340909,
+  "travelSeconds": 3,
+  "bpm": 132,
+  "gridOffset": 0.5,
+  "reviewOnly": false,
+  "notes": [
+    {
+      "kind": 0,
+      "time": 4.136364,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 4.818182,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 5.045455,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 5.5,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 5.954545,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 6.636364,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 6.863636,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 7.318182,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 7.772727,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 8.454545,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 8.681818,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 9.136364,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 9.590909,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 10.272727,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 10.5,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 10.954545,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 11.409091,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 12.090909,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 12.318182,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 12.772727,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 4,
+      "time": 13.227273,
+      "duration": 1.136364,
+      "source": "fill"
+    },
+    {
+      "kind": 0,
+      "time": 15.045455,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 15.727273,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 16.863636,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 17.545455,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 17.772727,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 18.227273,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 18.681818,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 19.363636,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 19.590909,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 20.045455,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 20.5,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 21.181818,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 21.409091,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 21.863636,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 22.318182,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 23.0,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 23.227273,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 23.681818,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 24.136364,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 24.818182,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 25.045455,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 25.5,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 25.954545,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 26.636364,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 26.863636,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 27.318182,
+      "duration": 0,
+      "source": "authored grid"
+    }
+  ]
+}

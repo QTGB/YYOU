@@ -1,0 +1,173 @@
+{
+  "version": 2,
+  "revision": 1,
+  "difficulty": 0,
+  "songId": "yyou_demo_03",
+  "title": "晴空信号",
+  "status": "open-demo",
+  "label": "入门 · 合成演示",
+  "audioPath": "DemoMusic/yyou_demo_03.ogg",
+  "audioDuration": 29.678571,
+  "travelSeconds": 3,
+  "bpm": 140,
+  "gridOffset": 0.5,
+  "reviewOnly": false,
+  "notes": [
+    {
+      "kind": 0,
+      "time": 3.928571,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 4.785714,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 5.642857,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 6.5,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 7.357143,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 8.214286,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 9.071429,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 9.928571,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 10.785714,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 11.642857,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 12.5,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 13.357143,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 14.214286,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 15.071429,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 15.928571,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 16.785714,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 17.642857,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 18.5,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 19.357143,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 20.214286,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 21.071429,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 21.928571,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 22.785714,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 23.642857,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 0,
+      "time": 24.5,
+      "duration": 0,
+      "source": "authored grid"
+    },
+    {
+      "kind": 1,
+      "time": 25.357143,
+      "duration": 0,
+      "source": "authored grid"
+    }
+  ]
+}

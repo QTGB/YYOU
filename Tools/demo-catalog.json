@@ -1,0 +1,134 @@
+{
+  "songs": [
+    {
+      "id": "yyou_demo_00",
+      "title": "初光",
+      "artist": "YYOU · 合成演示",
+      "duration": "1:02",
+      "previewStart": 4.25,
+      "audioPath": "DemoMusic/yyou_demo_00.ogg",
+      "category": 8,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_01",
+      "title": "薄荷时钟",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:36",
+      "previewStart": 4.786,
+      "audioPath": "DemoMusic/yyou_demo_01.ogg",
+      "category": 1,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_02",
+      "title": "玻璃雨",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:33",
+      "previewStart": 4.371,
+      "audioPath": "DemoMusic/yyou_demo_02.ogg",
+      "category": 1,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_03",
+      "title": "晴空信号",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:29",
+      "previewStart": 3.929,
+      "audioPath": "DemoMusic/yyou_demo_03.ogg",
+      "category": 1,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_04",
+      "title": "周末散步",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:39",
+      "previewStart": 5.115,
+      "audioPath": "DemoMusic/yyou_demo_04.ogg",
+      "category": 2,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_05",
+      "title": "暖风来信",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:35",
+      "previewStart": 4.638,
+      "audioPath": "DemoMusic/yyou_demo_05.ogg",
+      "category": 2,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_06",
+      "title": "星光漫步",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:31",
+      "previewStart": 4.136,
+      "audioPath": "DemoMusic/yyou_demo_06.ogg",
+      "category": 2,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_07",
+      "title": "云间回声",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:37",
+      "previewStart": 4.944,
+      "audioPath": "DemoMusic/yyou_demo_07.ogg",
+      "category": 16,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_08",
+      "title": "微风回廊",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:34",
+      "previewStart": 4.5,
+      "audioPath": "DemoMusic/yyou_demo_08.ogg",
+      "category": 16,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_09",
+      "title": "月色涟漪",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:30",
+      "previewStart": 4.029,
+      "audioPath": "DemoMusic/yyou_demo_09.ogg",
+      "category": 16,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_10",
+      "title": "银河列车",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:28",
+      "previewStart": 3.833,
+      "audioPath": "DemoMusic/yyou_demo_10.ogg",
+      "category": 4,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_11",
+      "title": "远方灯火",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:32",
+      "previewStart": 4.31,
+      "audioPath": "DemoMusic/yyou_demo_11.ogg",
+      "category": 4,
+      "availableDifficulties": 31
+    },
+    {
+      "id": "yyou_demo_12",
+      "title": "再次出发",
+      "artist": "YYOU · 合成演示",
+      "duration": "0:30",
+      "previewStart": 3.978,
+      "audioPath": "DemoMusic/yyou_demo_12.ogg",
+      "category": 4,
+      "availableDifficulties": 31
+    }
+  ]
+}
